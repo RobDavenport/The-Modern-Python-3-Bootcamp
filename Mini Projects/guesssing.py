@@ -1,3 +1,5 @@
+# Haven't learned how to do python functions yet...
+
 import random
 
 while True:
@@ -28,4 +30,3 @@ while True:
     else:
         print("Sorry, I didn't understand that, but exiting anyway...")
         break
-        
